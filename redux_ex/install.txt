@@ -1,0 +1,1 @@
+npm i --save-dev react-redux@5.0.3 redux@3.6.0
